@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    align-content: space-between;
+}
+
+.rigth{
+    gap: 2rem;
+    display: flex;
+    justify-content: start;
+}
+.barra{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    width: 100%;
+}
