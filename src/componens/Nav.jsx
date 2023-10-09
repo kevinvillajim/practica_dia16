@@ -11,10 +11,10 @@ export default function Nav() {
               <span>sunnyside </span>
             </div>
             <div className="rigth">
-              <div>About</div>
-              <div>Service</div>
-              <div>Proyects</div>
-              <div>Contact</div>
+              <span>About</span>
+              <span>Service</span>
+              <span>Proyects</span>
+              <span>Contact</span>
             </div>
           </div>
         </nav>
