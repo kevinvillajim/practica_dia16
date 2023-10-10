@@ -7,7 +7,7 @@ export default function Nav() {
       <div>
         <nav>
           <div className="barra">
-            <div>
+            <div className="logo">
               <span>sunnyside </span>
             </div>
             <div className="rigth">

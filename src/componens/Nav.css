@@ -1,21 +1,30 @@
 nav {
+    height: 50px;
     display: flex;
     align-content: space-between;
+    align-items: center;
 }
 
 .rigth{
-    gap: 2rem;
+    
     display: flex;
-    justify-content: start;
+    align-content: flex-end;
+    
+    width: 50%;
 }
 .barra{
     width: 100%;
     display: flex;
     justify-content: space-around;
+    height: 50%;
 }
 span{
     width: 100%;
 }
 div {
     border: solid 1px red;
+}
+
+.logo{
+width: 50%;  ;
 }
